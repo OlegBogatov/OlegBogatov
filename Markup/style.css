@@ -1,0 +1,15 @@
+body {
+ width: 600px;
+ margin-text: 0px 0px 0px 50px  
+ }
+      
+div {
+ text-align: center;
+ }
+
+hr {
+ border: none;
+ background-color: black; 
+ color: black;
+ height: 1px; 
+ }
